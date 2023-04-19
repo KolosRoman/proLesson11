@@ -1,0 +1,21 @@
+.wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.text {
+    font-size: 18px;
+    padding: 10px;
+    max-height: 70px;
+    border: 1px solid black;
+    overflow: scroll;
+    
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.even-text {
+    background-color: aqua;
+}
